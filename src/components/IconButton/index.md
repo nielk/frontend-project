@@ -4,7 +4,7 @@ Icons are also appropriate for toggle buttons that allow a single choice to be s
 adding or removing a star to an item.
 
 > Please import your icons from the
-> [@gojob/icons (front-office-icons) library](https://gitlab.com/gojob/front-office-icons).
+> [@gojob/icons (front-office-icons) library](/#404).
 
 ```js
 const JustifyAll = require('../Icons/JustifyAll').default;
