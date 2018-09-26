@@ -2,6 +2,8 @@ import * as React from 'react';
 
 import { hot } from 'react-hot-loader';
 
+import LoginContainer from './containers/LoginContainer';
+
 /**
  * Normalize css with side effect
  */
@@ -23,9 +25,7 @@ class App extends React.Component {
         <Typography style={{ position: 'absolute', left: '1em', top: '1em' }} variant="headline2">
           gojob
         </Typography>
-        <Typography color="primary" variant="main-title" align="center">
-          Happy coding! ♥️
-        </Typography>
+        <LoginContainer />
       </div>
     );
   }

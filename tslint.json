@@ -55,7 +55,8 @@
     "max-line-length": {
       "options": 110
     },
-    "interface-name": false
+    "interface-name": false,
+    "no-namespace": false
   },
   "jsRules": {
     "object-literal-sort-keys": false
